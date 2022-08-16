@@ -1,16 +1,5 @@
 # flutter_quiz_app
 
-A new Flutter project.
+A Simple Flutter project with Django api & Heroku.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1fc5ad79-e9c4-4087-9a9f-58f46e646bb2/Screen_Recording_2022-08-16_at_16.31.28.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220816%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220816T073339Z&X-Amz-Expires=86400&X-Amz-Signature=9438395e95494ce14624dc0ad3e9cac9849e73c45dce891537614a054c1270d8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screen%2520Recording%25202022-08-16%2520at%252016.31.28.gif%22&x-id=GetObject)
